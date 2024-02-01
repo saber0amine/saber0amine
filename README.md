@@ -59,8 +59,9 @@
 
   ## Connect with Me 🤝
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&link=YourLinkedInProfile)](YourLinkedInProfile)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&link=YourTwitterProfile)](YourTwitterProfile)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&link=[YourLinkedInProfile](https://www.linkedin.com/in/amine-saber-78b8b2227))](https://www.linkedin.com/in/amine-saber-78b8b2227)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&link=https://twitter.com/saberamine000?t=dpLdjNn_zb9XFz7SaoYsZQ&s=08)](https://twitter.com/saberamine000?t=dpLdjNn_zb9XFz7SaoYsZQ&s=08)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&link=mailto:saberamine000@gmail.com)](mailto:saberamine000@gmail.com)
 
 </div>
+
