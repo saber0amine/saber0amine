@@ -23,6 +23,13 @@ Welcome to my GitHub galaxy! 🚀 I'm Amine Saber, a passionate Software Student
 
 Feel free to explore my repositories and connect with me. Together, let's create stellar projects and navigate the coding cosmos!
 
-![Rocket Launch](https://example.com/rocket_launch.gif)
-
-Happy coding! 🚀✨
+```ASCII
+     .-"""-.
+    /        \
+   /          \
+  |,  .-.  .-.  ,|
+  | )(__/  \__)(
+  |/     /\     \|
+        (_      _)
+          |    |
+          |    |
