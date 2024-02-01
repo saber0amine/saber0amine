@@ -29,13 +29,20 @@
     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=306998">
     <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396">
     <img src="https://img.shields.io/badge/Web-Django-success?style=flat&logo=django&logoColor=white&color=092E20">
-    <img src="https://img.shields.io/badge/Framework-Spring_Boot-success?style=flat&logo=spring&logoColor=white&color=6DB33F">
-    <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED">
-    <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1">
-  </div>
-
-  <div align="center">
-    <!-- Add more details or badges here -->
+    <img src="https://img.shields.io/badge/Frontend-HTML5-success?style=flat&logo=html5&logoColor=white&color=E34F26">
+    <img src="https://img.shields.io/badge/Frontend-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6">
+    <img src="https://img.shields.io/badge/Frontend-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white&color=563D7C">
+    <img src="https://img.shields.io/badge/Programming-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC">
+    <img src="https://img.shields.io/badge/Database-Hibernate-green?style=flat&logo=hibernate&logoColor=white&color=59666C">
+    <img src="https://img.shields.io/badge/JavaEE-servlets-orange?style=flat&logo=java&logoColor=white&color=F89820">
+    <img src="https://img.shields.io/badge/Database-JDBC-blue?style=flat&logo=java&logoColor=white&color=007396">
+    <img src="https://img.shields.io/badge/Web-JSP-yellow?style=flat&logo=java&logoColor=white&color=F89820">
+    <img src="https://img.shields.io/badge/Modeling-UML-pink?style=flat&logo=uml&logoColor=white&color=536DFE">
+    <img src="https://img.shields.io/badge/Methodology-Scrum-red?style=flat&logo=scrum&logoColor=white&color=292929">
+    <img src="https://img.shields.io/badge/Database-MySQL-lightgrey?style=flat&logo=mysql&logoColor=white&color=4479A1">
+    <img src="https://img.shields.io/badge/Version%20Control-Git/GitHub-yellowgreen?style=flat&logo=git&logoColor=white&color=F05032">
+    <img src="https://img.shields.io/badge/OS%20&%20Scripting-Linux-blue?style=flat&logo=linux&logoColor=white&color=000000">
+    <img src="https://img.shields.io/badge/Scripting-Shell%20Scripting-green?style=flat&logo=shell&logoColor=white&color=5391FE">
   </div>
 
   ## GitHub Stats 📊
