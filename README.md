@@ -1,16 +1,26 @@
-### Hi there 👋
+# Amine Saber - Software Student Engineer
 
-<!--
-**saber0amine/saber0amine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 👋 I'm Amine Saber, a passionate Software Student Engineer, constantly learning and exploring the world of software development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing a degree in Software Engineering.
+- 💻 Interested in software development,Devops ,  web technologies, and problem-solving.
+- 🌐 Always exploring new technologies and frameworks.
+- 📚 Actively learning and participating in coding challenges.
+
+## Skills
+
+- **Programming Languages:** Pyhton , Java . 
+- **Web Technologies:** Django , Spring boot .
+- **Tools & Frameworks:** Doker .
+
+## Contact
+
+- GitHub: (https://github.com/saber0amine/)
+- LinkedIn: [linkedin.com/in/aminesaber](https://www.linkedin.com/in/aminesaber/)
+- Email: saberamine000@gmai.com 
+
+Feel free to explore my repositories and connect with me. Let's learn and build together!
+
+Happy coding! 🚀
