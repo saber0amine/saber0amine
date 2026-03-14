@@ -1,4 +1,4 @@
-```` 
+ 
 <div align="center">
 
 # Amine Saber
@@ -136,9 +136,9 @@ Worked on secure CI/CD, Kubernetes-based deployments, observability pipelines, I
 
 <div align="center">
 
-```text
+``` 
 Build systems that survive reality.
 ```
 
 </div>
-```
+ 
