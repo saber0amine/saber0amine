@@ -1,144 +1,152 @@
- 
 <div align="center">
 
-# Amine Saber
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Amine%20Saber&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineering&descAlignY=58&descSize=18" width="100%" />
 
-### DevOps Engineer • Cloud • SRE Mindset
+<br/>
 
-<p>
-  Building reliable infrastructure, production-ready platforms, and automation that scales.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Building+reliable+cloud+infrastructure;Automating+CI%2FCD+and+platform+workflows;Focused+on+DevOps%2C+Cloud%2C+SRE+and+Production+Systems)](https://git.io/typing-svg)
 
-<p>
+<p align="center">
   <a href="mailto:saberamine000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/saber0amine">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-saber0amine-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/amine-saber-78b8b2227">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Amine%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saber0amine&label=Profile%20Views&color=2563eb&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/saber0amine?style=flat-square&color=0f172a" />
+  <img src="https://img.shields.io/github/stars/saber0amine?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=2563eb" />
+</p>
+
 </div>
 
 ---
 
-## / about
+## About Me
 
-I'm **Amine Saber**, a DevOps and Cloud-oriented engineer focused on building systems that are:
+I'm **Amine Saber**, a DevOps / Cloud-oriented engineer passionate about **building reliable systems**, **automating infrastructure**, and improving **production quality**.
 
-- **reliable in production**
-- **observable by design**
-- **secure by default**
-- **automated end to end**
-
-My work sits around **Kubernetes**, **Terraform**, **CI/CD**, **cloud platforms**, **observability**, and **backend engineering** with a strong interest in **platform reliability** and **infrastructure quality**.
-
----
-
-## / current focus
-
-```text
-→ Cloud Infrastructure
-→ Kubernetes & Platform Engineering
-→ Infrastructure as Code
-→ CI/CD Automation
-→ Observability & Reliability
-→ DevSecOps
-````
+I enjoy working on:
+- cloud infrastructure and platform engineering
+- CI/CD automation and deployment workflows
+- Kubernetes and containerized systems
+- observability, reliability, and security
+- backend engineering with Java and Python
 
 ---
 
-## / stack
+## Current Focus
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,jenkins,gitlab,linux,bash,ansible" />
+- Designing and automating **scalable cloud infrastructure**
+- Building **secure CI/CD pipelines**
+- Working with **Kubernetes**, **Terraform**, and cloud-native tooling
+- Improving **observability**, **performance**, and **production reliability**
+- Exploring **SRE**, **DevSecOps**, and **platform engineering** practices
+
+---
+
+## Tech Stack
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,git,github,gitlab,jenkins,linux,bash,ansible" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,spring,fastapi,django,react,c" />
+### Backend & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,c,spring,fastapi,django,react" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,grafana,prometheus,git,github" />
+### Databases & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,grafana,prometheus" />
 </p>
 
 ---
 
-## / experience snapshot
+## What I Like Building
 
-### BNP Paribas
-
-Working on cloud optimization, scaling strategies, IAM adaptation, observability, and infrastructure efficiency in production-oriented environments.
-
-### Sofrecom / Orange France
-
-Built an **Infrastructure as Graph** approach to transform architecture diagrams into deployable **Terraform** infrastructure for **AWS** and **GCP**.
-
-### AMASOFT
-
-Worked on secure CI/CD, Kubernetes-based deployments, observability pipelines, IAM integration, and production-focused DevSecOps practices.
+- **Cloud-native platforms** that are easy to deploy and maintain  
+- **Infrastructure as Code** for repeatable and clean environments  
+- **Production-ready pipelines** with security and quality checks  
+- **Monitoring and logging setups** for real visibility  
+- **Backend systems** that are robust, scalable, and practical  
 
 ---
 
-## / selected projects
+## Featured Areas
 
-| Project                     | What it does                                                                                     |
-| --------------------------- | ------------------------------------------------------------------------------------------------ |
-| **KubeFlow**                | Distributed Kubernetes orchestrator using Kafka, Argo Workflows, Helm, and observability tooling |
-| **FlowPilot**               | Cloud-native workflow orchestration with event-driven execution                                  |
-| **Infrastructure as Graph** | Diagram-to-Terraform generation for multi-cloud environments                                     |
-| **Linux Simple Shell**      | Custom UNIX shell in C using low-level system programming concepts                               |
-
----
-
-## / engineering principles
-
-```text
-01. Automate anything repetitive
-02. Design for production, not for demos
-03. Prefer visibility over guesswork
-04. Keep systems simple enough to operate
-05. Reliability is a feature
-```
-
----
-
-## / github
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saber0amine&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saber0amine&layout=compact&hide_border=true&theme=transparent" />
-</div>
-
----
-
-## / currently interested in
-
-* Platform Engineering
-* Site Reliability Engineering
-* Cloud Architecture
-* DevSecOps
-* FinOps
-* Distributed Systems
+<table>
+  <tr>
+    <td width="50%">
+      <h3>DevOps & Cloud</h3>
+      <p>
+        Kubernetes, Terraform, Docker, CI/CD, Linux, cloud infrastructure, automation, GitOps mindset.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Backend Engineering</h3>
+      <p>
+        Java, Spring Boot, Python, FastAPI, APIs, microservices, distributed systems foundations.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Reliability & Security</h3>
+      <p>
+        Monitoring, logging, observability, IAM, secrets management, secure delivery pipelines.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Mindset</h3>
+      <p>
+        Clean architecture, automation first, production awareness, pragmatic problem solving.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## / contact
-
-* **Email** → `saberamine000@gmail.com`
-* **GitHub** → `github.com/saber0amine`
-* **LinkedIn** → `linkedin.com/in/amine-saber-78b8b2227`
-
----
+## GitHub Analytics
 
 <div align="center">
 
-``` 
-Build systems that survive reality.
-```
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saber0amine&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saber0amine&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
- 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=saber0amine&theme=transparent&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saber0amine&bg_color=ffffff00&color=2563eb&line=2563eb&point=94a3b8&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:saberamine000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-saberamine000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amine-saber-78b8b2227">
+    <img src="https://img.shields.io/badge/LinkedIn-amine--saber--78b8b2227-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" width="100%" />
+</div>
