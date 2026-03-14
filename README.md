@@ -1,23 +1,27 @@
 <div align="center">
 
-# Amine Saber
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Amine%20Saber&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineering&descAlignY=58&descSize=18" width="100%" />
 
-### DevOps / Cloud Engineer
+<br/>
 
-<p>
-  Building reliable cloud infrastructure, production-grade CI/CD pipelines, and scalable platforms.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Building+reliable+cloud+infrastructure;Automating+CI%2FCD+and+platform+workflows;Focused+on+DevOps%2C+Cloud%2C+SRE+and+Production+Systems)](https://git.io/typing-svg)
 
-<p>
+<p align="center">
   <a href="mailto:saberamine000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saberamine000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/saber0amine">
     <img src="https://img.shields.io/badge/GitHub-saber0amine-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/saber0amine">
+  <a href="https://www.linkedin.com/in/amine-saber-78b8b2227">
     <img src="https://img.shields.io/badge/LinkedIn-Amine%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saber0amine&label=Profile%20Views&color=2563eb&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/saber0amine?style=flat-square&color=0f172a" />
+  <img src="https://img.shields.io/github/stars/saber0amine?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=2563eb" />
 </p>
 
 </div>
@@ -26,48 +30,24 @@
 
 ## About Me
 
-I'm **Amine Saber**, a **DevOps / Cloud Engineer** currently based in **Paris, France**.  
-I focus on **production environments**, **cloud infrastructure**, **platform reliability**, and **automation**.
+I'm **Amine Saber**, a DevOps / Cloud-oriented engineer passionate about **building reliable systems**, **automating infrastructure**, and improving **production quality**.
 
-I'm currently pursuing a **Master 2 in Software Engineering and Application Integration at ISIMA Clermont-Ferrand**, while working on **cloud optimization and scalable infrastructure topics**.
-
-What drives me most is building systems that are not just functional, but **reliable, observable, secure, and efficient in real production conditions**.
-
----
-
-## What I’m Working On
-
-- Cloud and platform engineering in **production-oriented environments**
-- **Kubernetes**, **Terraform**, and **CI/CD automation**
-- **FinOps / cost optimization** for cloud infrastructure
-- **DevSecOps** practices with security and observability built in
-- Designing systems with a strong focus on **reliability, performance, and maintainability**
+I enjoy working on:
+- cloud infrastructure and platform engineering
+- CI/CD automation and deployment workflows
+- Kubernetes and containerized systems
+- observability, reliability, and security
+- backend engineering with Java and Python
 
 ---
 
-## Experience Highlights
+## Current Focus
 
-### BNP Paribas — DevOps / Cloud Engineer Intern
-Working on cloud resource optimization for internal infrastructures, with a focus on:
-- event-driven autoscaling and serverless approaches
-- IAM and security policy adaptation
-- observability with production metrics
-- cloud efficiency and scaling
-
-### Sofrecom / Orange France — DevOps / Cloud Engineer
-Built an **Infrastructure as Graph** solution to generate **Terraform** infrastructure from visual diagrams across **AWS** and **GCP**.
-- Improved deployment and architecture design efficiency
-- Worked on **FastAPI microservices**
-- Integrated **GitLab CI/CD**
-- Contributed to **cloud cost optimization**
-
-### AMASOFT — DevSecOps Engineer
-Worked on secure delivery and production reliability:
-- orchestration of microservices with **Kubernetes**
-- secure **Jenkins CI/CD** pipelines
-- **SAST / SCA** integration
-- IAM and secrets management with **Keycloak** and **Vault**
-- observability with **Grafana, Prometheus, Loki**
+- Designing and automating **scalable cloud infrastructure**
+- Building **secure CI/CD pipelines**
+- Working with **Kubernetes**, **Terraform**, and cloud-native tooling
+- Improving **observability**, **performance**, and **production reliability**
+- Exploring **SRE**, **DevSecOps**, and **platform engineering** practices
 
 ---
 
@@ -75,108 +55,98 @@ Worked on secure delivery and production reliability:
 
 ### Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
-</p>
-
-### Cloud Platforms
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,git,github,gitlab,jenkins,linux,bash,ansible" />
 </p>
 
 ### Backend & Development
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,c,spring,fastapi,django,react" />
 </p>
 
-### Security & Observability
+### Databases & Observability
 <p>
-  <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-000000?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,grafana,prometheus" />
 </p>
 
 ---
 
-## Selected Projects
+## What I Like Building
 
-### KubeFlow
-A Kubernetes-based distributed orchestrator using **Kafka** and **Argo Workflows**, deployed with **Helm** and integrated with **Prometheus/Grafana** for observability.
-
-### FlowPilot
-A cloud-native workflow orchestrator built around distributed event-driven execution and monitoring.
-
-### Linux Simple Shell
-A custom UNIX shell in **C**, reproducing core `/bin/sh` behavior using low-level system calls.
-
-### Infrastructure as Graph
-A visual-to-IaC approach that transforms architecture diagrams into deployable **Terraform** configurations for multi-cloud environments.
+- **Cloud-native platforms** that are easy to deploy and maintain  
+- **Infrastructure as Code** for repeatable and clean environments  
+- **Production-ready pipelines** with security and quality checks  
+- **Monitoring and logging setups** for real visibility  
+- **Backend systems** that are robust, scalable, and practical  
 
 ---
 
-## GitHub Stats
+## Featured Areas
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>DevOps & Cloud</h3>
+      <p>
+        Kubernetes, Terraform, Docker, CI/CD, Linux, cloud infrastructure, automation, GitOps mindset.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Backend Engineering</h3>
+      <p>
+        Java, Spring Boot, Python, FastAPI, APIs, microservices, distributed systems foundations.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Reliability & Security</h3>
+      <p>
+        Monitoring, logging, observability, IAM, secrets management, secure delivery pipelines.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Mindset</h3>
+      <p>
+        Clean architecture, automation first, production awareness, pragmatic problem solving.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saber0amine&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saber0amine&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saber0amine&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saber0amine&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=saber0amine&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=saber0amine&theme=transparent&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saber0amine&bg_color=ffffff00&color=2563eb&line=2563eb&point=94a3b8&area=true&hide_border=true" width="95%" />
 </div>
 
 ---
 
-## Currently Interested In
+## Connect With Me
 
-- Platform Engineering
-- Site Reliability Engineering
-- Cloud Infrastructure Automation
-- DevSecOps
-- FinOps
-- Distributed Systems
-
----
-
-## Let’s Connect
-
-- **Email:** saberamine000@gmail.com
-- **GitHub:** [github.com/saber0amine](https://github.com/saber0amine)
-- **LinkedIn:** [linkedin.com/in/saber0amine](https://linkedin.com/in/saber0amine)
+<p align="center">
+  <a href="mailto:saberamine000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-saberamine000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amine-saber-78b8b2227">
+    <img src="https://img.shields.io/badge/LinkedIn-amine--saber--78b8b2227-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <sub>Built with clarity, coffee, and a healthy respect for production systems.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" width="100%" />
 </div>
